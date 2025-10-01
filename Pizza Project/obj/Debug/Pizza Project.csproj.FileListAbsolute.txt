@@ -1,0 +1,11 @@
+C:\Users\Acer\source\repos\Pizza Project\Pizza Project\bin\Debug\Pizza Project.exe.config
+C:\Users\Acer\source\repos\Pizza Project\Pizza Project\bin\Debug\Pizza Project.exe
+C:\Users\Acer\source\repos\Pizza Project\Pizza Project\bin\Debug\Pizza Project.pdb
+C:\Users\Acer\source\repos\Pizza Project\Pizza Project\obj\Debug\Pizza Project.csproj.AssemblyReference.cache
+C:\Users\Acer\source\repos\Pizza Project\Pizza Project\obj\Debug\Pizza_Project.Form1.resources
+C:\Users\Acer\source\repos\Pizza Project\Pizza Project\obj\Debug\Pizza_Project.Properties.Resources.resources
+C:\Users\Acer\source\repos\Pizza Project\Pizza Project\obj\Debug\Pizza Project.csproj.GenerateResource.cache
+C:\Users\Acer\source\repos\Pizza Project\Pizza Project\obj\Debug\Pizza Project.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\Pizza Project\Pizza Project\obj\Debug\Pizza Project.exe
+C:\Users\Acer\source\repos\Pizza Project\Pizza Project\obj\Debug\Pizza Project.pdb
+C:\Users\Acer\source\repos\Pizza Project\Pizza Project\obj\Debug\Pizza Project.exe.config
